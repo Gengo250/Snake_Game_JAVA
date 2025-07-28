@@ -50,23 +50,6 @@ Snake_Game_JAVA/
 
 ---
 
-## 📦 Como Rodar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/Gengo250/Snake_Game_JAVA.git
-```
-
-2. Compile e execute com:
-
-```bash
-javac *.java
-java SnakeGame
-```
-
----
-
 ## 🖼️ Prévia do Jogo
 
 <p align="center">
